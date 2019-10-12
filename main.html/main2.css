@@ -4,3 +4,7 @@ img{
   padding-left: 20%;
   padding-top: 5%;
 }
+
+form{
+  align-items: stretch;
+}
